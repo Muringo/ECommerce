@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.iPaykenya.iPay-easy-way-interface-v2:ipay Ui:1.0.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ipay Ui-1.0.2.aar/75d9910facda67dd143cc67557909859/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ipay Ui-1.0.2.aar/75d9910facda67dd143cc67557909859/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.iPaykenya.iPay-easy-way-interface-v2/ipay Ui/1.0.2/29f50b028c7a5f99811672892f713fb059f11118/ipay Ui-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
